@@ -1,5 +1,0 @@
-File dari Python
-baris ke dua
-baris ke tiga
-baris ke empat
-baris ini dibuat dengan mode append
